@@ -1,8 +1,32 @@
 Header {
-background-color: #010101f8;
+    background-color: #f46600f8;
 }
+
 Main {
-background-color: chartreuse;
+    background-color: chartreuse;
+}
+
+h1 {
+    text-align: center;
+}
+
+p { 
+    color: chartreuse;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+img{
+    border: solid;
+    border-width: 6px;
+
+}
+
+ul{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+Footer {
+    background-color: blueviolet;
 }
 /* Add a background color to the header element */
 
